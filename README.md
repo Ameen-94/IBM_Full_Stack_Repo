@@ -5,8 +5,8 @@ This repository serves as a comprehensive portfolio for all projects, labs, and 
 ## 🎓 About the Program
 This professional credential covers the entire software development lifecycle—from front-end dazzle to back-end logic, cloud-native deployment, and the integration of **Generative AI** to accelerate development.
 
-## 📂 Repository Structure
-The repository is organized by the 15 core modules:
+## 📂 Certificate Structure
+The Certificate is organized by the 15 core modules:
 
 1.  **Introduction to Software Engineering**
 2.  **Introduction to Cloud Computing**
